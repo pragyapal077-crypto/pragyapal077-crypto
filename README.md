@@ -12,7 +12,7 @@
 ╚══════════════════════════════════════╝
 ```
 
-### 💻 B.Tech CSE | Aspiring Software Engineer
+###  B.Tech CSE | Aspiring Software Engineer
 
 *Learning, building, and debugging one step at a time.* 💚
 
@@ -84,10 +84,10 @@ Interests : Dev stuff & playing with legos - both involve building cool things!
 
 ##  What I'm Working On
 
-- 📚 Practicing DSA using Java.
-- 💻 Building web development projects.
-- 🔍 Strengthening computer science fundamentals.
-- 🎯 Preparing for software development internships.
+-  Practicing DSA using C++.
+-  Building web development projects.
+-  Strengthening computer science fundamentals.
+-  Preparing for software development internships.
 
 ---
 
@@ -116,8 +116,8 @@ Interests : Dev stuff & playing with legos - both involve building cool things!
 
 <div align="center">
 
-### ✨ Consistency beats perfection.
+###  Consistency beats perfection.
 
-*Thanks for visiting my corner of GitHub!* 💚
+*Thanks for visiting my corner of GitHub!* 
 
 </div>
