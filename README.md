@@ -14,7 +14,7 @@
 
 ###  B.Tech CSE | Aspiring Software Engineer
 
-*Learning, building, and debugging one step at a time.* 💚
+*Learning, building, and debugging one step at a time.* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pragyapal077-crypto&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
