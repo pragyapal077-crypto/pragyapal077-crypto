@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Pragya Pal!
+
 
 ```text
 ╔══════════════════════════════════════╗
